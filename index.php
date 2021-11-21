@@ -1,4 +1,6 @@
-<?php ?>
+
+  <?php ?>
+<table> 
 <tr>.
     <th> DOB</th>
     <th> Name</th>
@@ -24,4 +26,5 @@
     <td> bla bla </td>
     <td> -A</td>
   </tr>
-  
+  </table>
+
